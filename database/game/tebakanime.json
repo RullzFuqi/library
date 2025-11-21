@@ -1,0 +1,1002 @@
+[
+  {
+    "index": 1,
+    "nama": "Cowboy Bebop",
+    "img": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+  },
+  {
+    "index": 2,
+    "nama": "Cowboy Bebop: Tengoku no Tobira",
+    "img": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg"
+  },
+  {
+    "index": 3,
+    "nama": "Trigun",
+    "img": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+  },
+  {
+    "index": 4,
+    "nama": "Witch Hunter Robin",
+    "img": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
+  },
+  {
+    "index": 5,
+    "nama": "Bouken Ou Beet",
+    "img": "https://cdn.myanimelist.net/images/anime/7/21569l.jpg"
+  },
+  {
+    "index": 6,
+    "nama": "Eyeshield 21",
+    "img": "https://cdn.myanimelist.net/images/anime/1079/133529l.jpg"
+  },
+  {
+    "index": 7,
+    "nama": "Hachimitsu to Clover",
+    "img": "https://cdn.myanimelist.net/images/anime/1301/133577l.jpg"
+  },
+  {
+    "index": 8,
+    "nama": "Hungry Heart: Wild Striker",
+    "img": "https://cdn.myanimelist.net/images/anime/12/49655l.jpg"
+  },
+  {
+    "index": 9,
+    "nama": "Initial D Fourth Stage",
+    "img": "https://cdn.myanimelist.net/images/anime/9/10521l.jpg"
+  },
+  {
+    "index": 10,
+    "nama": "Monster",
+    "img": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+  },
+  {
+    "index": 11,
+    "nama": "Naruto",
+    "img": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+  },
+  {
+    "index": 12,
+    "nama": "One Piece",
+    "img": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+  },
+  {
+    "index": 13,
+    "nama": "Tennis no Oujisama",
+    "img": "https://cdn.myanimelist.net/images/anime/6/21624l.jpg"
+  },
+  {
+    "index": 14,
+    "nama": "Ring ni Kakero 1",
+    "img": "https://cdn.myanimelist.net/images/anime/1121/149685l.jpg"
+  },
+  {
+    "index": 15,
+    "nama": "School Rumble",
+    "img": "https://cdn.myanimelist.net/images/anime/1465/142014l.jpg"
+  },
+  {
+    "index": 16,
+    "nama": "Sunabouzu",
+    "img": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg"
+  },
+  {
+    "index": 17,
+    "nama": "Texhnolyze",
+    "img": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg"
+  },
+  {
+    "index": 18,
+    "nama": "Trinity Blood",
+    "img": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg"
+  },
+  {
+    "index": 19,
+    "nama": "Yakitate!! Japan",
+    "img": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg"
+  },
+  {
+    "index": 20,
+    "nama": "Zipang",
+    "img": "https://cdn.myanimelist.net/images/anime/13/75740l.jpg"
+  },
+  {
+    "index": 21,
+    "nama": "Shinseiki Evangelion",
+    "img": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+  },
+  {
+    "index": 22,
+    "nama": "Shinseiki Evangelion Movie: Shi to Shinsei",
+    "img": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg"
+  },
+  {
+    "index": 23,
+    "nama": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+    "img": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+  },
+  {
+    "index": 24,
+    "nama": "Kenpuu Denki Berserk",
+    "img": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+  },
+  {
+    "index": 25,
+    "nama": "Koukaku Kidoutai",
+    "img": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg"
+  },
+  {
+    "index": 26,
+    "nama": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+    "img": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+  },
+  {
+    "index": 27,
+    "nama": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "img": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg"
+  },
+  {
+    "index": 28,
+    "nama": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+    "img": "https://cdn.myanimelist.net/images/anime/4/47845l.jpg"
+  },
+  {
+    "index": 29,
+    "nama": "Akira",
+    "img": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg"
+  },
+  {
+    "index": 30,
+    "nama": ".hack//Sign",
+    "img": "https://cdn.myanimelist.net/images/anime/1443/94665l.jpg"
+  },
+  {
+    "index": 31,
+    "nama": "Aa! Megami-sama!",
+    "img": "https://cdn.myanimelist.net/images/anime/1566/152081l.jpg"
+  },
+  {
+    "index": 32,
+    "nama": "Aa! Megami-sama! (TV)",
+    "img": "https://cdn.myanimelist.net/images/anime/1976/99376l.jpg"
+  },
+  {
+    "index": 33,
+    "nama": "Tenshi Kinryouku",
+    "img": "https://cdn.myanimelist.net/images/anime/1627/146055l.jpg"
+  },
+  {
+    "index": 34,
+    "nama": "Kidou Tenshi Angelic Layer",
+    "img": "https://cdn.myanimelist.net/images/anime/1192/113699l.jpg"
+  },
+  {
+    "index": 35,
+    "nama": "Ai Yori Aoshi",
+    "img": "https://cdn.myanimelist.net/images/anime/7/10172l.jpg"
+  },
+  {
+    "index": 36,
+    "nama": "Appleseed (Movie)",
+    "img": "https://cdn.myanimelist.net/images/anime/9/57231l.jpg"
+  },
+  {
+    "index": 37,
+    "nama": "Arc the Lad",
+    "img": "https://cdn.myanimelist.net/images/anime/3/49041l.jpg"
+  },
+  {
+    "index": 38,
+    "nama": "Avenger",
+    "img": "https://cdn.myanimelist.net/images/anime/13/19921l.jpg"
+  },
+  {
+    "index": 39,
+    "nama": "Beck",
+    "img": "https://cdn.myanimelist.net/images/anime/11/11636l.jpg"
+  },
+  {
+    "index": 40,
+    "nama": "Blue Gender",
+    "img": "https://cdn.myanimelist.net/images/anime/1/2023l.jpg"
+  },
+  {
+    "index": 41,
+    "nama": "Chobits",
+    "img": "https://cdn.myanimelist.net/images/anime/4/24648l.jpg"
+  },
+  {
+    "index": 42,
+    "nama": "Chrno Crusade",
+    "img": "https://cdn.myanimelist.net/images/anime/13/14141l.jpg"
+  },
+  {
+    "index": 43,
+    "nama": "D.N.Angel",
+    "img": "https://cdn.myanimelist.net/images/anime/1126/98904l.jpg"
+  },
+  {
+    "index": 44,
+    "nama": "D.C.: Da Capo",
+    "img": "https://cdn.myanimelist.net/images/anime/4/73936l.jpg"
+  },
+  {
+    "index": 45,
+    "nama": "DearS",
+    "img": "https://cdn.myanimelist.net/images/anime/1207/98872l.jpg"
+  },
+  {
+    "index": 46,
+    "nama": "Rozen Maiden",
+    "img": "https://cdn.myanimelist.net/images/anime/1424/108431l.jpg"
+  },
+  {
+    "index": 47,
+    "nama": "Rozen Maiden: Träumend",
+    "img": "https://cdn.myanimelist.net/images/anime/4/10242l.jpg"
+  },
+  {
+    "index": 48,
+    "nama": "Azumanga Daiou The Animation",
+    "img": "https://cdn.myanimelist.net/images/anime/1066/117358l.jpg"
+  },
+  {
+    "index": 49,
+    "nama": "Basilisk: Kouga Ninpou Chou",
+    "img": "https://cdn.myanimelist.net/images/anime/1103/133549l.jpg"
+  },
+  {
+    "index": 50,
+    "nama": "Black Cat",
+    "img": "https://cdn.myanimelist.net/images/anime/1183/133280l.jpg"
+  },
+  {
+    "index": 51,
+    "nama": "Cluster Edge",
+    "img": "https://cdn.myanimelist.net/images/anime/1980/103243l.jpg"
+  },
+  {
+    "index": 52,
+    "nama": "Full Metal Panic!",
+    "img": "https://cdn.myanimelist.net/images/anime/2/75259l.jpg"
+  },
+  {
+    "index": 53,
+    "nama": "Full Metal Panic? Fumoffu",
+    "img": "https://cdn.myanimelist.net/images/anime/4/75260l.jpg"
+  },
+  {
+    "index": 54,
+    "nama": "Full Metal Panic! The Second Raid",
+    "img": "https://cdn.myanimelist.net/images/anime/11/75261l.jpg"
+  },
+  {
+    "index": 55,
+    "nama": "Gakuen Alice",
+    "img": "https://cdn.myanimelist.net/images/anime/4/18118l.jpg"
+  },
+  {
+    "index": 56,
+    "nama": "Soukyuu no Fafner: Dead Aggressor",
+    "img": "https://cdn.myanimelist.net/images/anime/3/50365l.jpg"
+  },
+  {
+    "index": 57,
+    "nama": "Mahou Shoujo Lyrical Nanoha",
+    "img": "https://cdn.myanimelist.net/images/anime/1052/136283l.jpg"
+  },
+  {
+    "index": 58,
+    "nama": "Mahou Shoujo Lyrical Nanoha A's",
+    "img": "https://cdn.myanimelist.net/images/anime/4/6767l.jpg"
+  },
+  {
+    "index": 59,
+    "nama": "Shuffle!",
+    "img": "https://cdn.myanimelist.net/images/anime/1290/133860l.jpg"
+  },
+  {
+    "index": 60,
+    "nama": "Kidou Senshi Gundam",
+    "img": "https://cdn.myanimelist.net/images/anime/5/88524l.jpg"
+  },
+  {
+    "index": 61,
+    "nama": "Kidou Senshi Gundam: Dai 08 MS Shoutai",
+    "img": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg"
+  },
+  {
+    "index": 62,
+    "nama": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
+    "img": "https://cdn.myanimelist.net/images/anime/1839/92857l.jpg"
+  },
+  {
+    "index": 63,
+    "nama": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report",
+    "img": "https://cdn.myanimelist.net/images/anime/1132/100198l.jpg"
+  },
+  {
+    "index": 64,
+    "nama": "Kidou Senshi Gundam 0083: Stardust Memory",
+    "img": "https://cdn.myanimelist.net/images/anime/13/26654l.jpg"
+  },
+  {
+    "index": 65,
+    "nama": "Kidou Senshi Zeta Gundam",
+    "img": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
+  },
+  {
+    "index": 66,
+    "nama": "Kidou Senshi Gundam ZZ",
+    "img": "https://cdn.myanimelist.net/images/anime/1964/149469l.jpg"
+  },
+  {
+    "index": 67,
+    "nama": "Kidou Senshi Gundam: Gyakushuu no Char",
+    "img": "https://cdn.myanimelist.net/images/anime/1523/92371l.jpg"
+  },
+  {
+    "index": 68,
+    "nama": "Kidou Senshi Gundam F91",
+    "img": "https://cdn.myanimelist.net/images/anime/1637/95288l.jpg"
+  },
+  {
+    "index": 69,
+    "nama": "Kidou Senshi Victory Gundam",
+    "img": "https://cdn.myanimelist.net/images/anime/1913/102693l.jpg"
+  },
+  {
+    "index": 70,
+    "nama": "Shin Kidou Senki Gundam Wing",
+    "img": "https://cdn.myanimelist.net/images/anime/1884/114414l.jpg"
+  },
+  {
+    "index": 71,
+    "nama": "Shin Kidou Senki Gundam Wing: Endless Waltz",
+    "img": "https://cdn.myanimelist.net/images/anime/1724/149786l.jpg"
+  },
+  {
+    "index": 72,
+    "nama": "Kidou Shinseiki Gundam X",
+    "img": "https://cdn.myanimelist.net/images/anime/10/16054l.jpg"
+  },
+  {
+    "index": 73,
+    "nama": "Kidou Senshi Gundam SEED",
+    "img": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
+  },
+  {
+    "index": 74,
+    "nama": "Kidou Senshi Gundam SEED Destiny",
+    "img": "https://cdn.myanimelist.net/images/anime/1700/91080l.jpg"
+  },
+  {
+    "index": 75,
+    "nama": "Turn A Gundam",
+    "img": "https://cdn.myanimelist.net/images/anime/4/78330l.jpg"
+  },
+  {
+    "index": 76,
+    "nama": "Kidou Butouden G Gundam",
+    "img": "https://cdn.myanimelist.net/images/anime/1187/133654l.jpg"
+  },
+  {
+    "index": 77,
+    "nama": "Last Exile",
+    "img": "https://cdn.myanimelist.net/images/anime/7/10888l.jpg"
+  },
+  {
+    "index": 78,
+    "nama": "Mai-HiME",
+    "img": "https://cdn.myanimelist.net/images/anime/13/7226l.jpg"
+  },
+  {
+    "index": 79,
+    "nama": "Mai-Otome",
+    "img": "https://cdn.myanimelist.net/images/anime/2/46897l.jpg"
+  },
+  {
+    "index": 80,
+    "nama": "Shin Shirayuki-hime Densetsu Prétear",
+    "img": "https://cdn.myanimelist.net/images/anime/9/11709l.jpg"
+  },
+  {
+    "index": 81,
+    "nama": "Air",
+    "img": "https://cdn.myanimelist.net/images/anime/1825/146531l.jpg"
+  },
+  {
+    "index": 82,
+    "nama": "Aishiteruze Baby★★",
+    "img": "https://cdn.myanimelist.net/images/anime/2/69665l.jpg"
+  },
+  {
+    "index": 83,
+    "nama": "Akazukin Chacha",
+    "img": "https://cdn.myanimelist.net/images/anime/1098/108972l.jpg"
+  },
+  {
+    "index": 84,
+    "nama": "Ayashi no Ceres",
+    "img": "https://cdn.myanimelist.net/images/anime/1287/134408l.jpg"
+  },
+  {
+    "index": 85,
+    "nama": "Boys Be...",
+    "img": "https://cdn.myanimelist.net/images/anime/1/2223l.jpg"
+  },
+  {
+    "index": 86,
+    "nama": "Hana yori Dango",
+    "img": "https://cdn.myanimelist.net/images/anime/2/42871l.jpg"
+  },
+  {
+    "index": 87,
+    "nama": "Ou Dorobou Jing",
+    "img": "https://cdn.myanimelist.net/images/anime/1961/92115l.jpg"
+  },
+  {
+    "index": 88,
+    "nama": "Ou Dorobou Jing in Seventh Heaven",
+    "img": "https://cdn.myanimelist.net/images/anime/1304/140180l.jpg"
+  },
+  {
+    "index": 89,
+    "nama": "Bakuretsu Tenshi",
+    "img": "https://cdn.myanimelist.net/images/anime/10/22647l.jpg"
+  },
+  {
+    "index": 90,
+    "nama": "Chuuka Ichiban!",
+    "img": "https://cdn.myanimelist.net/images/anime/6/75283l.jpg"
+  },
+  {
+    "index": 91,
+    "nama": "Corrector Yui",
+    "img": "https://cdn.myanimelist.net/images/anime/1696/105659l.jpg"
+  },
+  {
+    "index": 92,
+    "nama": "Chou Henshin Cosprayers",
+    "img": "https://cdn.myanimelist.net/images/anime/5/75236l.jpg"
+  },
+  {
+    "index": 93,
+    "nama": "Uchuu no Stellvia",
+    "img": "https://cdn.myanimelist.net/images/anime/1587/134660l.jpg"
+  },
+  {
+    "index": 94,
+    "nama": "Sakigake!! Cromartie Koukou",
+    "img": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
+  },
+  {
+    "index": 95,
+    "nama": "Ijigen no Sekai El-Hazard",
+    "img": "https://cdn.myanimelist.net/images/anime/1843/139490l.jpg"
+  },
+  {
+    "index": 96,
+    "nama": "Shinpi no Sekai El-Hazard (TV)",
+    "img": "https://cdn.myanimelist.net/images/anime/13/24439l.jpg"
+  },
+  {
+    "index": 97,
+    "nama": "Shinpi no Sekai El-Hazard",
+    "img": "https://cdn.myanimelist.net/images/anime/1893/128632l.jpg"
+  },
+  {
+    "index": 98,
+    "nama": "Shinpi no Sekai El-Hazard Season 2",
+    "img": "https://cdn.myanimelist.net/images/anime/11/2796l.jpg"
+  },
+  {
+    "index": 99,
+    "nama": "Final Approach",
+    "img": "https://cdn.myanimelist.net/images/anime/11/14607l.jpg"
+  },
+  {
+    "index": 100,
+    "nama": "Fruits Basket",
+    "img": "https://cdn.myanimelist.net/images/anime/4/75204l.jpg"
+  },
+  {
+    "index": 101,
+    "nama": "Fullmetal Alchemist",
+    "img": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
+  },
+  {
+    "index": 102,
+    "nama": "Full Moon wo Sagashite",
+    "img": "https://cdn.myanimelist.net/images/anime/1900/99154l.jpg"
+  },
+  {
+    "index": 103,
+    "nama": "Fushigi Yuugi",
+    "img": "https://cdn.myanimelist.net/images/anime/2/20140l.jpg"
+  },
+  {
+    "index": 104,
+    "nama": "Fushigi Yuugi: Eikouden",
+    "img": "https://cdn.myanimelist.net/images/anime/11/67701l.jpg"
+  },
+  {
+    "index": 105,
+    "nama": "Futakoi",
+    "img": "https://cdn.myanimelist.net/images/anime/1498/145934l.jpg"
+  },
+  {
+    "index": 106,
+    "nama": "Futakoi Alternative",
+    "img": "https://cdn.myanimelist.net/images/anime/6/16733l.jpg"
+  },
+  {
+    "index": 107,
+    "nama": "Gate Keepers",
+    "img": "https://cdn.myanimelist.net/images/anime/12/15226l.jpg"
+  },
+  {
+    "index": 108,
+    "nama": "Gate Keepers 21",
+    "img": "https://cdn.myanimelist.net/images/anime/6/75569l.jpg"
+  },
+  {
+    "index": 109,
+    "nama": "Gensoumaden Saiyuuki",
+    "img": "https://cdn.myanimelist.net/images/anime/11/75282l.jpg"
+  },
+  {
+    "index": 110,
+    "nama": "Saiyuuki Reload",
+    "img": "https://cdn.myanimelist.net/images/anime/13/24719l.jpg"
+  },
+  {
+    "index": 111,
+    "nama": "Saiyuuki Reload Gunlock",
+    "img": "https://cdn.myanimelist.net/images/anime/1348/134419l.jpg"
+  },
+  {
+    "index": 112,
+    "nama": "GetBackers",
+    "img": "https://cdn.myanimelist.net/images/anime/1056/109721l.jpg"
+  },
+  {
+    "index": 113,
+    "nama": "Green Green",
+    "img": "https://cdn.myanimelist.net/images/anime/7/75251l.jpg"
+  },
+  {
+    "index": 114,
+    "nama": "Gunslinger Girl",
+    "img": "https://cdn.myanimelist.net/images/anime/5/3088l.jpg"
+  },
+  {
+    "index": 115,
+    "nama": "Hikaru no Go",
+    "img": "https://cdn.myanimelist.net/images/anime/12/78317l.jpg"
+  },
+  {
+    "index": 116,
+    "nama": "Hunter x Hunter",
+    "img": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+  },
+  {
+    "index": 117,
+    "nama": "Hunter x Hunter: Original Video Animation",
+    "img": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
+  },
+  {
+    "index": 118,
+    "nama": "Hunter x Hunter: Greed Island",
+    "img": "https://cdn.myanimelist.net/images/anime/1902/122320l.jpg"
+  },
+  {
+    "index": 119,
+    "nama": "Hunter x Hunter: Greed Island Final",
+    "img": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+  },
+  {
+    "index": 120,
+    "nama": "Jinki:Extend",
+    "img": "https://cdn.myanimelist.net/images/anime/3/44792l.jpg"
+  },
+  {
+    "index": 121,
+    "nama": "Kamikaze Kaitou Jeanne",
+    "img": "https://cdn.myanimelist.net/images/anime/5/20389l.jpg"
+  },
+  {
+    "index": 122,
+    "nama": "Kannazuki no Miko",
+    "img": "https://cdn.myanimelist.net/images/anime/8/73955l.jpg"
+  },
+  {
+    "index": 123,
+    "nama": "Kanon",
+    "img": "https://cdn.myanimelist.net/images/anime/1552/128388l.jpg"
+  },
+  {
+    "index": 124,
+    "nama": "Kareshi Kanojo no Jijou",
+    "img": "https://cdn.myanimelist.net/images/anime/1222/108880l.jpg"
+  },
+  {
+    "index": 125,
+    "nama": "Kono Minikuku mo Utsukushii Sekai",
+    "img": "https://cdn.myanimelist.net/images/anime/10/21035l.jpg"
+  },
+  {
+    "index": 126,
+    "nama": "Kimi ga Nozomu Eien",
+    "img": "https://cdn.myanimelist.net/images/anime/5/10227l.jpg"
+  },
+  {
+    "index": 127,
+    "nama": "Kita e.: Diamond Dust Drops",
+    "img": "https://cdn.myanimelist.net/images/anime/1488/132892l.jpg"
+  },
+  {
+    "index": 128,
+    "nama": "Loveless",
+    "img": "https://cdn.myanimelist.net/images/anime/2/22947l.jpg"
+  },
+  {
+    "index": 129,
+    "nama": "Blood+",
+    "img": "https://cdn.myanimelist.net/images/anime/10/10183l.jpg"
+  },
+  {
+    "index": 130,
+    "nama": "Re: Cutie Honey",
+    "img": "https://cdn.myanimelist.net/images/anime/6/52103l.jpg"
+  },
+  {
+    "index": 131,
+    "nama": "Solty Rei",
+    "img": "https://cdn.myanimelist.net/images/anime/3/75582l.jpg"
+  },
+  {
+    "index": 132,
+    "nama": "Juuni Kokuki",
+    "img": "https://cdn.myanimelist.net/images/anime/6/50859l.jpg"
+  },
+  {
+    "index": 133,
+    "nama": "Shaman King",
+    "img": "https://cdn.myanimelist.net/images/anime/1722/99235l.jpg"
+  },
+  {
+    "index": 134,
+    "nama": "X/1999",
+    "img": "https://cdn.myanimelist.net/images/anime/7/23579l.jpg"
+  },
+  {
+    "index": 135,
+    "nama": "X",
+    "img": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
+  },
+  {
+    "index": 136,
+    "nama": "Mahou Sensei Negima!",
+    "img": "https://cdn.myanimelist.net/images/anime/12/89535l.jpg"
+  },
+  {
+    "index": 137,
+    "nama": "Maria-sama ga Miteru",
+    "img": "https://cdn.myanimelist.net/images/anime/1994/114208l.jpg"
+  },
+  {
+    "index": 138,
+    "nama": "Boukyaku no Senritsu",
+    "img": "https://cdn.myanimelist.net/images/anime/9/52679l.jpg"
+  },
+  {
+    "index": 139,
+    "nama": "Ima, Soko ni Iru Boku",
+    "img": "https://cdn.myanimelist.net/images/anime/1094/109008l.jpg"
+  },
+  {
+    "index": 140,
+    "nama": "Peace Maker Kurogane",
+    "img": "https://cdn.myanimelist.net/images/anime/10/77408l.jpg"
+  },
+  {
+    "index": 141,
+    "nama": "Pita Ten",
+    "img": "https://cdn.myanimelist.net/images/anime/7/25205l.jpg"
+  },
+  {
+    "index": 142,
+    "nama": "Power Stone",
+    "img": "https://cdn.myanimelist.net/images/anime/1110/98247l.jpg"
+  },
+  {
+    "index": 143,
+    "nama": "Mononoke Hime",
+    "img": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+  },
+  {
+    "index": 144,
+    "nama": "RahXephon",
+    "img": "https://cdn.myanimelist.net/images/anime/13/75168l.jpg"
+  },
+  {
+    "index": 145,
+    "nama": "Samurai 7",
+    "img": "https://cdn.myanimelist.net/images/anime/1190/95421l.jpg"
+  },
+  {
+    "index": 146,
+    "nama": "Scrapped Princess",
+    "img": "https://cdn.myanimelist.net/images/anime/1238/94717l.jpg"
+  },
+  {
+    "index": 147,
+    "nama": "s.CRY.ed",
+    "img": "https://cdn.myanimelist.net/images/anime/1181/138453l.jpg"
+  },
+  {
+    "index": 148,
+    "nama": "Shingetsutan Tsukihime",
+    "img": "https://cdn.myanimelist.net/images/anime/12/20669l.jpg"
+  },
+  {
+    "index": 149,
+    "nama": "Slam Dunk",
+    "img": "https://cdn.myanimelist.net/images/anime/12/86890l.jpg"
+  },
+  {
+    "index": 150,
+    "nama": "Strange Dawn",
+    "img": "https://cdn.myanimelist.net/images/anime/1313/146208l.jpg"
+  },
+  {
+    "index": 151,
+    "nama": "Tactics",
+    "img": "https://cdn.myanimelist.net/images/anime/8/37549l.jpg"
+  },
+  {
+    "index": 152,
+    "nama": "Tenjou Tenge",
+    "img": "https://cdn.myanimelist.net/images/anime/1507/101835l.jpg"
+  },
+  {
+    "index": 153,
+    "nama": "Tokyo Underground",
+    "img": "https://cdn.myanimelist.net/images/anime/9/21036l.jpg"
+  },
+  {
+    "index": 154,
+    "nama": "Triangle Heart: Sweet Songs Forever",
+    "img": "https://cdn.myanimelist.net/images/anime/7/17439l.jpg"
+  },
+  {
+    "index": 155,
+    "nama": "Tsubasa Chronicle",
+    "img": "https://cdn.myanimelist.net/images/anime/9/6555l.jpg"
+  },
+  {
+    "index": 156,
+    "nama": "Ultra Maniac",
+    "img": "https://cdn.myanimelist.net/images/anime/8/53571l.jpg"
+  },
+  {
+    "index": 157,
+    "nama": "Ultra Maniac OVA",
+    "img": "https://cdn.myanimelist.net/images/anime/2/3132l.jpg"
+  },
+  {
+    "index": 158,
+    "nama": "Vandread",
+    "img": "https://cdn.myanimelist.net/images/anime/5/75446l.jpg"
+  },
+  {
+    "index": 159,
+    "nama": "Vandread: The Second Stage",
+    "img": "https://cdn.myanimelist.net/images/anime/4/75447l.jpg"
+  },
+  {
+    "index": 160,
+    "nama": "Tenkuu no Escaflowne",
+    "img": "https://cdn.myanimelist.net/images/anime/5/30689l.jpg"
+  },
+  {
+    "index": 161,
+    "nama": "Whistle!",
+    "img": "https://cdn.myanimelist.net/images/anime/8/17885l.jpg"
+  },
+  {
+    "index": 162,
+    "nama": "Xenosaga The Animation",
+    "img": "https://cdn.myanimelist.net/images/anime/3/75162l.jpg"
+  },
+  {
+    "index": 163,
+    "nama": "Initial D First Stage",
+    "img": "https://cdn.myanimelist.net/images/anime/1384/127972l.jpg"
+  },
+  {
+    "index": 164,
+    "nama": "Initial D Second Stage",
+    "img": "https://cdn.myanimelist.net/images/anime/8/12750l.jpg"
+  },
+  {
+    "index": 165,
+    "nama": "Initial D Third Stage",
+    "img": "https://cdn.myanimelist.net/images/anime/13/40397l.jpg"
+  },
+  {
+    "index": 166,
+    "nama": "Gosenzo Sane",
+    "img": "https://cdn.myanimelist.net/images/anime/13/78241l.jpg"
+  },
+  {
+    "index": 167,
+    "nama": "Love Hina",
+    "img": "https://cdn.myanimelist.net/images/anime/1153/99366l.jpg"
+  },
+  {
+    "index": 168,
+    "nama": "Love Hina Again",
+    "img": "https://cdn.myanimelist.net/images/anime/3/10289l.jpg"
+  },
+  {
+    "index": 169,
+    "nama": "Love Hina Christmas Special: Silent Eve",
+    "img": "https://cdn.myanimelist.net/images/anime/11/82467l.jpg"
+  },
+  {
+    "index": 170,
+    "nama": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "img": "https://cdn.myanimelist.net/images/anime/12/82632l.jpg"
+  },
+  {
+    "index": 171,
+    "nama": "Maburaho",
+    "img": "https://cdn.myanimelist.net/images/anime/9/79204l.jpg"
+  },
+  {
+    "index": 172,
+    "nama": "Macross Zero",
+    "img": "https://cdn.myanimelist.net/images/anime/12/76289l.jpg"
+  },
+  {
+    "index": 173,
+    "nama": "Onegai☆Teacher",
+    "img": "https://cdn.myanimelist.net/images/anime/1371/138517l.jpg"
+  },
+  {
+    "index": 174,
+    "nama": "Onegai☆Twins",
+    "img": "https://cdn.myanimelist.net/images/anime/1621/100229l.jpg"
+  },
+  {
+    "index": 175,
+    "nama": "Rizelmine",
+    "img": "https://cdn.myanimelist.net/images/anime/1575/153253l.jpg"
+  },
+  {
+    "index": 176,
+    "nama": "Speed Grapher",
+    "img": "https://cdn.myanimelist.net/images/anime/13/12343l.jpg"
+  },
+  {
+    "index": 177,
+    "nama": "Sen to Chihiro no Kamikakushi",
+    "img": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+  },
+  {
+    "index": 178,
+    "nama": "Tenshi na Konamaiki",
+    "img": "https://cdn.myanimelist.net/images/anime/1644/131230l.jpg"
+  },
+  {
+    "index": 179,
+    "nama": "Video Girl Ai",
+    "img": "https://cdn.myanimelist.net/images/anime/2/22130l.jpg"
+  },
+  {
+    "index": 180,
+    "nama": "Wolf's Rain",
+    "img": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
+  },
+  {
+    "index": 181,
+    "nama": "Words Worth",
+    "img": "https://cdn.myanimelist.net/images/anime/12/6030l.jpg"
+  },
+  {
+    "index": 182,
+    "nama": "Yumeria",
+    "img": "https://cdn.myanimelist.net/images/anime/1135/128536l.jpg"
+  },
+  {
+    "index": 183,
+    "nama": "Samurai Champloo",
+    "img": "https://cdn.myanimelist.net/images/anime/1370/135212l.jpg"
+  },
+  {
+    "index": 184,
+    "nama": "Lodoss-tou Senki: Eiyuu Kishi Den",
+    "img": "https://cdn.myanimelist.net/images/anime/1065/92495l.jpg"
+  },
+  {
+    "index": 185,
+    "nama": "Lodoss-tou Senki",
+    "img": "https://cdn.myanimelist.net/images/anime/1644/92493l.jpg"
+  },
+  {
+    "index": 186,
+    "nama": "R.O.D: Read or Die",
+    "img": "https://cdn.myanimelist.net/images/anime/1824/98849l.jpg"
+  },
+  {
+    "index": 187,
+    "nama": "R.O.D: The TV",
+    "img": "https://cdn.myanimelist.net/images/anime/3/73350l.jpg"
+  },
+  {
+    "index": 188,
+    "nama": "Ranma ½",
+    "img": "https://cdn.myanimelist.net/images/anime/13/6441l.jpg"
+  },
+  {
+    "index": 189,
+    "nama": "Pure Mail",
+    "img": "https://cdn.myanimelist.net/images/anime/1518/112232l.jpg"
+  },
+  {
+    "index": 190,
+    "nama": "Project A-Ko",
+    "img": "https://cdn.myanimelist.net/images/anime/2/58391l.jpg"
+  },
+  {
+    "index": 191,
+    "nama": "Pia Carrot e Youkoso!!",
+    "img": "https://cdn.myanimelist.net/images/anime/1111/116093l.jpg"
+  },
+  {
+    "index": 192,
+    "nama": "Pia Carrot e Youkoso!! 2",
+    "img": "https://cdn.myanimelist.net/images/anime/1610/116094l.jpg"
+  },
+  {
+    "index": 193,
+    "nama": "Pia Carrot e Youkoso!! 2 DX",
+    "img": "https://cdn.myanimelist.net/images/anime/11/50781l.jpg"
+  },
+  {
+    "index": 194,
+    "nama": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+    "img": "https://cdn.myanimelist.net/images/anime/1860/116096l.jpg"
+  },
+  {
+    "index": 195,
+    "nama": "Shin Angel",
+    "img": "https://cdn.myanimelist.net/images/anime/1268/119710l.jpg"
+  },
+  {
+    "index": 196,
+    "nama": "Kidou Senkan Nadesico",
+    "img": "https://cdn.myanimelist.net/images/anime/3/53955l.jpg"
+  },
+  {
+    "index": 197,
+    "nama": "Kidou Senkan Nadesico: The Prince of Darkness",
+    "img": "https://cdn.myanimelist.net/images/anime/10/51253l.jpg"
+  },
+  {
+    "index": 198,
+    "nama": "Kuro no Danshou",
+    "img": "https://cdn.myanimelist.net/images/anime/10/29841l.jpg"
+  },
+  {
+    "index": 199,
+    "nama": "Mezzo Forte",
+    "img": "https://cdn.myanimelist.net/images/anime/6/37391l.jpg"
+  },
+  {
+    "index": 200,
+    "nama": "Mezzo DSA",
+    "img": "https://cdn.myanimelist.net/images/anime/9/3235l.jpg"
+  }
+]
